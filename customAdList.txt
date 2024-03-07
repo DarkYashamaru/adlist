@@ -17,3 +17,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 0.0.0.0 hostg.xyz
+0.0.0.0 rushbet.co
+0.0.0.0 stripchat.com
+0.0.0.0 xfujihakbk.com
