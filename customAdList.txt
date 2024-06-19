@@ -26,4 +26,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 href.li
 0.0.0.0 dzuwtyorkfm.com
 0.0.0.0 s0.2mdn.net
+0.0.0.0 cat.us5.us.criteo.com
+0.0.0.0 ad.doubleclick.net
 
