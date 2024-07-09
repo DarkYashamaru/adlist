@@ -32,4 +32,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 best-video-app.com
 0.0.0.0 app-lite.com
 0.0.0.0 saustorait.com
+0.0.0.0 go.mnaspm.com
+0.0.0.0 creative.mnaspm.com
+
+
+
 
