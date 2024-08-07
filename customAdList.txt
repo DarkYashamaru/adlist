@@ -38,7 +38,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 glakaits.net
 0.0.0.0 wplay.co
 0.0.0.0 promotion.exness.com
-
+0.0.0.0 candynetwork.ai
 
 
 
