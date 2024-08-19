@@ -42,6 +42,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 livejasmin.com
 0.0.0.0 br3ackandhack.com
 0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 spam.b-cdn.net
+0.0.0.0 cdn.bncloudfl.com
 
 
 
