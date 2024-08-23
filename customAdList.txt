@@ -56,6 +56,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 allfreewarez24.com
 0.0.0.0 googleadservices.com
 0.0.0.0 ouo.press
+0.0.0.0 rushbet.co
+0.0.0.0 ptavutchain.com
+0.0.0.0 sports.yajuego.co
+0.0.0.0 wplay.co
+0.0.0.0 stake.com.co
+0.0.0.0 check-tl-ver-158-b.buzz
+
+
 
 
 
