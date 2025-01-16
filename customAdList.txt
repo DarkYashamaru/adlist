@@ -63,6 +63,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 stake.com.co
 0.0.0.0 check-tl-ver-158-b.buzz
 0.0.0.0 igaminggg.site
+0.0.0.0 bestsearchdeals
+0.0.0.0 skrill.com
+0.0.0.0 gloaphoo.net
 
 
 
