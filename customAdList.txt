@@ -73,7 +73,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bcgame.lu
 0.0.0.0 xm.com
 0.0.0.0 taghaugh.com
-0.0.0.0 tmearn.net
 0.0.0.0 kelpmetorealiuk.com
 
 
