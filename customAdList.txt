@@ -70,8 +70,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 lp.uisu.ac.id
 0.0.0.0 repairvisionsturgeon.com
 0.0.0.0 bedpanearle.shop
-
-
+0.0.0.0 bcgame.lu
+0.0.0.0 xm.com
+0.0.0.0 taghaugh.com
 
 
 
