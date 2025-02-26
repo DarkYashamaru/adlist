@@ -77,6 +77,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 bankingbloatedcaptive.com
 0.0.0.0 lifeonholidays.com
 0.0.0.0 lookmommynohands.com
+0.0.0.0 cdn.pncloudfl.com
+
 
 
 
