@@ -74,6 +74,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 xm.com
 0.0.0.0 taghaugh.com
 0.0.0.0 kelpmetorealiuk.com
+0.0.0.0 bankingbloatedcaptive.com
+0.0.0.0 lifeonholidays.com
+0.0.0.0 lookmommynohands.com
 
 
 
