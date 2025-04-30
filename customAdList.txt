@@ -78,8 +78,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 lifeonholidays.com
 0.0.0.0 lookmommynohands.com
 0.0.0.0 cdn.pncloudfl.com
-
-
+0.0.0.0 reviewworld.info
+0.0.0.0 avatrade.es
+0.0.0.0 rivalo.co
+0.0.0.0 reviewworld.info
 
 
 
