@@ -84,6 +84,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reviewworld.info
 0.0.0.0 jagdaqpidvah.in
 0.0.0.0 magsrv.com
+0.0.0.0 nn125.com
 
 
 
